@@ -1,4 +1,4 @@
-from ubuntu
+from ubuntu:xenial-20180417
 
 maintainer vgmoose version: 0.5
 
