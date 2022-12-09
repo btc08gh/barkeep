@@ -21,7 +21,7 @@ docker-compose build
 
 2. Bring up mysql container and run db migration script
 ```
-docker-compose start mysql
+docker-compose up
 docker-compose run barkeep sh migrations.sh
 ```
 
